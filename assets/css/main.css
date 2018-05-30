@@ -4003,3 +4003,18 @@
 					}
 
 	}
+
+	@media screen and (orientation: portrait)
+	{
+		#stick_to_bootom
+		{
+			position: auto;
+			bottom: 0px;
+		}
+
+
+		a#quirky_button
+		{
+			position: sticky;
+		}
+	}
