@@ -25,6 +25,10 @@
 		list-style: none;
 	}
 
+	li {
+		list-style: none;
+	}
+
 	blockquote, q {
 		quotes: none;
 	}
@@ -3560,7 +3564,7 @@
 				}
 
 				.spotlight .goto-next {
-					display: none;
+					display: black;
 				}
 
 		/* Wrapper */
@@ -3994,3 +3998,20 @@
 					}
 
 	}
+
+
+	@media screen and (orientation: portrait)
+	{
+		#stick_to_bootom
+		{
+			position: auto;
+			bottom: 0px;
+		}
+
+
+		a#quirky_button
+		{
+			position: sticky;
+		}
+	}
+
