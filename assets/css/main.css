@@ -1,11 +1,6 @@
 @import url("font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Roboto:100,300,100italic,300italic");
 
-/*
-	Landed by Pixelarity
-	pixelarity.com | hello@pixelarity.com
-	License: pixelarity.com/license
-*/
 
 /* Reset */
 
@@ -4004,6 +3999,7 @@
 
 	}
 
+
 	@media screen and (orientation: portrait)
 	{
 		#stick_to_bootom
@@ -4018,3 +4014,4 @@
 			position: sticky;
 		}
 	}
+
