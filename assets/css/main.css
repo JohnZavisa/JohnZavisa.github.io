@@ -4001,6 +4001,10 @@
 	}
 
 
+<<<<<<< HEAD
+a#quirky_button {
+	position: relative;
+=======
 	@media screen and (orientation: portrait)
 	{
 		#stick_to_bootom
@@ -4018,4 +4022,5 @@
 
 .webgl-content {
 	height: 0px;
+>>>>>>> 8a917a7d85306b8f1727646bca2da1f96188e833
 }
