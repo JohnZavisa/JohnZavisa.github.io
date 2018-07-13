@@ -2854,7 +2854,7 @@
 		height: 100vh;
 		overflow: hidden;
 		position: relative;
-        -webkit-transform: translateZ(0);
+        	-webkit-transform: translateZ(0);
 	}
 
 		.spotlight:nth-last-of-type(1) {
